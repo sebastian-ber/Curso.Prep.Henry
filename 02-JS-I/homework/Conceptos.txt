@@ -1,0 +1,7 @@
+Variables: Son espacios en la memoria que pueden cambiar en el desarrollo de la aplicacion.
+String: Es una cadena de texto. 
+Funciones: Es un bloque de codigo que tiene la posibilidad de ser ejecutado en repetidas ocaciones.
+Argumentos: Son parametros que se utilizan para recibir los valores con los que va a trabajar dicha funcion.
+Return: Es una sentencia que se sirve para devolver el valor de una funcion.
+If: Es una sentencia condicional, es decir, se evaluan las condiciones si son verdaderas se ejecuta una sentencia sino ejecutara otra.
+Booleanos: Son tipos de datos primitivos que corresponden solo a dos valores, true 'Verdadero' y false 'falso'.
