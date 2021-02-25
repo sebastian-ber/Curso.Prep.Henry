@@ -1,0 +1,1 @@
+Array: Es un tipo de dato compuesto donde podemos almacenar cantidades de elementos, entre ellos tipos de datos booleano, string, numericos incluso funciones y arreglos. Se puede acceder a estos elementos llamando el nombre del arreglo y entre corchetes el numero de su posicion. mencionar que la ubicacion de elementos en un arreglo inicia desde 0.
