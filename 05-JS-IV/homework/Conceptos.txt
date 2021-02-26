@@ -1,0 +1,17 @@
+Ojetos: Es un elemento que puede contener cantidades de propiedades, a diferencia del array, se puede acceder a los objetos
+con el nombre de la propiedad en vez del numero del indice en los array. De esta forma un objeto nos permite reunir informacion de manera 
+mas organizada a travez del nombre de sus propiedades.
+
+[A[A[A[A
+[A[A[B[B[B[B[BPropiedades: son los atributos de un objeto [o. Estan conformados por un nombre o key el cual nos permitira acceder a ellos y un valor determinado.
+
+[A[A[BEstos valores pueden ser cualquier tipo de datos primitivos inlcuso datos compuestos como funciones, arrelglos y objetos.
+
+Métodos: Es cuando declaramos una funcion dentro de un objeto.
+
+Bucle for ...in: es un bucle que nos permite recorrer las propiedades o atributos de un objeto.
+
+Existen dos formas de acceder a un objeto; primeramente tenemos la notacion por puntos donde radica una ventaja que puede ser muy util al 
+momento de redactar pues solo es necesario el nombre del objeto seguido de un punto y el nombre de la propiedad, sin embargo solo es valido
+mientras la propiedad exista dentro del objeto. A diferencia de la notacion por corchete permite [D[D[D[D[D[D[D[D[D[[C[C[D[etes que permite redefinir variables fuera del objeto, su
+unica desventaja es la sintaxis que se debe emplear para acceder a los objetos. 
