@@ -1,0 +1,2 @@
+prototype: Es una propiedad asociada de un objeto que permite heredar funciones de otros objetos.
+Constructors: Es una funcion que recibir argumentos o parametros para establecer la informacion que utilizara la clase[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D de las propiedades que empleara la clase.
