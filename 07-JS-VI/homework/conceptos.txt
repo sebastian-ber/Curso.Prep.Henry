@@ -1,0 +1,3 @@
+Funciones Callbacks: llamamos callback a las funciones que se pasan como parametro a otra funcion.
+Comparativa: cuando establecemos una funcion dentro de un objeto lo llamamos metodo, cuando pasamos una funcion
+por medio de otra, lo llamamos [D[D[D[D[D[D[Ca lo llamamos callback.
